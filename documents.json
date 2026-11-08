@@ -1,0 +1,90 @@
+[
+  {
+    "doc_id": "doc_001",
+    "text": "Nintendo Switch 簡介\n\n本手冊介紹 Nintendo Switch 主機、遊戲模式，以及 Nintendo Switch Lite 的特色與差異。\n由於原始 PDF 為圖片型 PDF，部分頁面無法直接擷取文字；本檔僅整理可辨識的內容，請以原始手冊核對。",
+    "metadata": {
+      "title": "Nintendo Switch 簡介",
+      "source_url": null,
+      "date": null,
+      "filename": "01_Nintendo_Switch簡介.txt",
+      "document_type": "產品官方宣傳手冊文字整理"
+    }
+  },
+  {
+    "doc_id": "doc_002",
+    "text": "Nintendo Switch 的三種遊戲模式\n\nNintendo Switch 可使用三種遊戲模式：\n1. 電視模式：將主機安裝到底座並連接電視，可透過電視大螢幕遊玩。\n2. 桌上模式：豎立主機支架，並將 Joy-Con 控制器分給其他玩家，即使沒有電視，也能分享畫面進行對戰或合作遊戲。\n3. 手提模式：將主機拿在手上遊玩，適合外出或移動時使用。",
+    "metadata": {
+      "title": "Nintendo Switch 的三種遊戲模式",
+      "source_url": null,
+      "date": null,
+      "filename": "02_三種遊戲模式.txt",
+      "document_type": "官方手冊內容摘要"
+    }
+  },
+  {
+    "doc_id": "doc_003",
+    "text": "Joy-Con 控制器\n\nNintendo Switch 附有左右各一的 Joy-Con 控制器。\n在桌上模式下，可以把 Joy-Con 分給其他人，分享畫面進行多人遊戲。\n手冊比較 Nintendo Switch 與 Nintendo Switch Lite 時，也提及 Joy-Con、HD 震動與動態 IR 照相機等功能。\nNintendo Switch Lite 若要遊玩需要 Joy-Con 功能的部分遊戲，可能需要另外購買 Joy-Con。",
+    "metadata": {
+      "title": "Joy-Con 控制器",
+      "source_url": null,
+      "date": null,
+      "filename": "03_Joy-Con控制器.txt",
+      "document_type": "官方手冊內容摘要"
+    }
+  },
+  {
+    "doc_id": "doc_004",
+    "text": "Nintendo Switch Lite 的特色\n\nNintendo Switch Lite 是以手提遊玩為主的主機，體積較小、較輕巧，方便攜帶外出。\n手冊表示，Nintendo Switch Lite 可遊玩支援「手提模式」的 Nintendo Switch 遊戲軟體。\n手冊也提到，Lite 適合經常攜帶主機外出遊玩的人，以及想與持有 Nintendo Switch 的家人朋友透過網路或鄰近主機連線進行多人遊戲的人。",
+    "metadata": {
+      "title": "Nintendo Switch Lite 的特色",
+      "source_url": null,
+      "date": null,
+      "filename": "04_Nintendo_Switch_Lite特色.txt",
+      "document_type": "官方手冊內容摘要"
+    }
+  },
+  {
+    "doc_id": "doc_005",
+    "text": "Nintendo Switch 與 Nintendo Switch Lite 比較\n\n手冊以主機尺寸、螢幕尺寸、重量、支援遊戲模式、可遊玩的遊戲軟體及控制器功能等項目，比較 Nintendo Switch 與 Nintendo Switch Lite。\nNintendo Switch 可透過底座連接電視，也可使用桌上模式與手提模式。\nNintendo Switch Lite 以手提模式為主，特色是體積小、重量較輕、方便攜帶。",
+    "metadata": {
+      "title": "Nintendo Switch 與 Nintendo Switch Lite 比較",
+      "source_url": null,
+      "date": null,
+      "filename": "05_兩款主機規格比較.txt",
+      "document_type": "官方手冊表格摘要"
+    }
+  },
+  {
+    "doc_id": "doc_006",
+    "text": "遊玩 Nintendo Switch 所需項目\n\n手冊指出，遊玩時需要 Nintendo Switch 主機和遊戲軟體。\n盒裝版遊戲軟體可將遊戲卡插入主機遊玩。\n手冊也分別列出 Nintendo Switch 主機組合與 Nintendo Switch Lite 主機組合。",
+    "metadata": {
+      "title": "遊玩 Nintendo Switch 所需項目",
+      "source_url": null,
+      "date": null,
+      "filename": "06_遊戲軟體與遊玩需求.txt",
+      "document_type": "官方手冊內容摘要"
+    }
+  },
+  {
+    "doc_id": "doc_007",
+    "text": "連接電視與切換遊玩\n\n將 Nintendo Switch 底座連接電視並安裝主機後，即可透過電視大螢幕體驗遊戲。\n手冊說明，從底座取出主機後可以馬上切換畫面，並在其他場合繼續遊玩原本在電視上玩的遊戲。\n連接電視時，使用隨附的 HDMI 連接線和 AC 變壓器。",
+    "metadata": {
+      "title": "連接電視與切換遊玩",
+      "source_url": null,
+      "date": null,
+      "filename": "07_連接電視與切換遊玩.txt",
+      "document_type": "官方手冊內容摘要"
+    }
+  },
+  {
+    "doc_id": "doc_008",
+    "text": "遊戲相容性與功能限制\n\nNintendo Switch Lite 可遊玩支援手提模式的 Nintendo Switch 遊戲軟體，但部分遊戲或玩法可能有限制。\n若遊戲不支援手提模式，可能需要另購 Joy-Con；部分需要 HD 震動、動態 IR 照相機或 Joy-Con 內置動作感應器的玩法，也可能無法在 Lite 上完整使用。\n手冊提醒讀者，詳細資訊應參閱官方網站。",
+    "metadata": {
+      "title": "遊戲相容性與功能限制",
+      "source_url": null,
+      "date": null,
+      "filename": "08_遊戲相容性與功能限制.txt",
+      "document_type": "官方手冊內容摘要"
+    }
+  }
+]
